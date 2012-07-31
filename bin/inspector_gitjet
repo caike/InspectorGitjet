@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require 'inspector_gitjet'
+require 'inspector_gitjet/cli'
+
+InspectorGitjet::CLI.run
+

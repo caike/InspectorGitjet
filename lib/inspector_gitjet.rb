@@ -1,5 +1,5 @@
 require "inspector_gitjet/version"
 
 module InspectorGitjet
-  # Your code goes here...
+  autoload :Importable, 'inspector_gitjet/importable'
 end
