@@ -1,7 +1,8 @@
 # InspectorGitjet
+![](http://www.gitanalysis.com/assets/detective-9dd8a9436217df280689ac3109b3e497.png "Inspector")
 
 Checks commits for files often committed together.
-This is the gem version for the InspectorGitjet web app.
+This gem is extracted from http://gitanalysis.com
 
 
 ## Usage
